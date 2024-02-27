@@ -8,7 +8,7 @@ The notebook leverages a series of Python libraries to extract information, anal
 
 ## Features
 
-- Extracting information from sources like Wikipedia.
+- Extracting information from sources like Wikipedia. and local documents.
 - Using large language models (LLM) for text analysis.
 - Iterative construction of knowledge graphs.
 - Visualization and summarization of results.
